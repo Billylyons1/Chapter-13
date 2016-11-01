@@ -14,7 +14,9 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
+  background-image: url(images/bullseye.png);
   background-color: #d2dc9d
+
 }
 #header {
   margin-top: 0;
@@ -82,8 +84,6 @@ a: hover{
   color:#c700f2
   background-color: #fff
 }
-
-
 
 </style>
 </head>
