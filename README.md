@@ -22,8 +22,11 @@ body {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
+  background-image: url(images/purpledot.png);
+  background-repeat: repeat-x;
   background-color: R:255 G:255 B:255; opacity: 50
   color: #937393
+
 }
 
 a {
