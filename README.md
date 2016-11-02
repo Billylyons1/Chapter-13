@@ -1,6 +1,7 @@
 # Chapter-13
 Homework 
 <!DOCTYPE html >
+<!DOCTYPE html >
 <html>
 
 <head>
@@ -21,6 +22,7 @@ body {
   background-repeat: no-repeat;
   background-position: center top;
   background-image: url(images/blackgoose.png);
+  background-attachment: fixed;
 
 
 
